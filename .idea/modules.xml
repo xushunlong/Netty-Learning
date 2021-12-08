@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NIO-MulThread-demo/NIO-MulThread-demo.iml" filepath="$PROJECT_DIR$/NIO-MulThread-demo/NIO-MulThread-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NIO-demo/NIO-demo.iml" filepath="$PROJECT_DIR$/NIO-demo/NIO-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Netty-Learning.iml" filepath="$PROJECT_DIR$/.idea/Netty-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty-demo/Netty-demo.iml" filepath="$PROJECT_DIR$/Netty-demo/Netty-demo.iml" />

@@ -9,11 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Netty-demo" />
         <module name="NIO-demo" />
+        <module name="NIO-MulThread-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Netty-demo" target="1.8" />
       <module name="NIO-demo" target="1.8" />
+      <module name="NIO-MulThread-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
