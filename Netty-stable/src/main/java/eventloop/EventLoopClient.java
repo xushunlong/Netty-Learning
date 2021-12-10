@@ -19,7 +19,7 @@ public class EventLoopClient {
                     @Override
                     protected void initChannel(NioSocketChannel nioSocketChannel) throws Exception {
                         nioSocketChannel.pipeline().addLast(new StringEncoder());
-                        nioSocketChannel.writeAndFlush("2222");
+                        System.out.println("客户端发送完成");
                     }
                 })
                 .connect(new InetSocketAddress("localhost",8880))
