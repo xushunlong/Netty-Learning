@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/Netty-demo/pom.xml" />
         <option value="$PROJECT_DIR$/NIO-demo/pom.xml" />
         <option value="$PROJECT_DIR$/NIO-MulThread-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-stable/pom.xml" />
       </list>
     </option>
   </component>
