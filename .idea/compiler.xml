@@ -10,11 +10,13 @@
         <module name="Netty-demo" />
         <module name="NIO-demo" />
         <module name="Netty-stable" />
+        <module name="Netty-future" />
         <module name="NIO-MulThread-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Netty-demo" target="1.8" />
+      <module name="Netty-future" target="1.8" />
       <module name="Netty-stable" target="1.8" />
       <module name="NIO-demo" target="1.8" />
       <module name="NIO-MulThread-demo" target="1.8" />
